@@ -36,6 +36,7 @@ The Student Grade Management System is a console-based Core Java application dev
 ## 📂 Project Structure
 
 StudentGradeManagementSystem/
+
 │
 ├── students.txt
 ├── src/
