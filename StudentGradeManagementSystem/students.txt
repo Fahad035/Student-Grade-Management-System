@@ -1,0 +1,49 @@
+
+Student ID: 1
+Student Name: Fahad
+Total Marks: 181.0
+Average Marks: 60.333333333333336
+Grade: C
+-------------------------
+
+Student ID: 2
+Student Name: Elli
+Total Marks: 241.0
+Average Marks: 80.33333333333333
+Grade: B
+-------------------------
+
+Student ID: 3
+Student Name: Kamal
+Total Marks: 235.0
+Average Marks: 78.33333333333333
+Grade: B
+-------------------------
+
+Student ID: 4
+Student Name: Ava
+Total Marks: 231.0
+Average Marks: 77.0
+Grade: B
+-------------------------
+
+Student ID: 1
+Student Name: hgh
+Total Marks: 179.0
+Average Marks: 59.666666666666664
+Grade: D
+----------------------
+
+Student ID: 8
+Student Name: jo
+Total Marks: 256.0
+Average Marks: 85.33333333333333
+Grade: B
+----------------------
+
+Student ID: 7
+Student Name: hik
+Total Marks: 144.0
+Average Marks: 48.0
+Grade: D
+----------------------
